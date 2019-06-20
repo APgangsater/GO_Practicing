@@ -1,2 +1,4 @@
-# GO_Practicing
-Practice go lang
+# Go
+Test project with:
+
+* **Language:** Go
